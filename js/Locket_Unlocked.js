@@ -1631,7 +1631,7 @@ if (ua.includes("Locket")) {
                         source: "remote",
                         caption: {
                             background: { colors: ["#FFEB3B", "#FF9800"] },
-                            icon: { data: "😎", type: "emoji" },
+                            icon: { data: "", type: "emoji" },
                             max_lines: 1,
                             text: "Ra dại",
                             text_color: "#000000E6",
