@@ -50,7 +50,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Nhớ follow kênh tiktok @_tuanphong705 ✨",
                     body: "Chúc bạn sử dụng vui vẻ 💛",
-                    imageURL: "https://i.ibb.co/b5H0DL2p/L-n-Locket-Gold-R-i.png"
+                    imageURL: "https://cdn.jsdelivr.net/gh/Phonghihi99/test2@main/assets/locket-gold-banner.webp"
                 }
             ],
             primary_button_title: "Xong",
